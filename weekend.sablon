@@ -1,0 +1,33 @@
+SZIGNAL;5;"óraindító"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"óra közben"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"reklám előtt"
+REKLAM;60;"reklámblokk 1"
+SZIGNAL;5;"reklám után"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"óra megszakad"
+MUSOR;120;"hírek"
+SZIGNAL;5;"óra folytatódik"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"reklám előtt"
+REKLAM;60;"reklámblokk 2"
+SZIGNAL;5;"reklám után"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"óra közben"
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+ZENE;[hossz];[cím];[előadó]
+SZIGNAL;5;"óravég"
